@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|c:\\users\\it shop company\\desktop\\c# projects\\testrestapi\\testrestapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|solutionrelative:testrestapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|c:\\users\\it shop company\\desktop\\c# projects\\testrestapi\\testrestapi\\dto\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|solutionrelative:testrestapi\\dto\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|c:\\users\\it shop company\\desktop\\c# projects\\testrestapi\\testrestapi\\testrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|solutionrelative:testrestapi\\testrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|c:\\users\\it shop company\\desktop\\c# projects\\testrestapi\\testrestapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|solutionrelative:testrestapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|c:\\users\\it shop company\\desktop\\c# projects\\testrestapi\\testrestapi\\dto\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037C4105-A41F-494F-B81F-B41EEE6FF277}|TestRESTAPI\\TestRESTAPI.csproj|solutionrelative:testrestapi\\dto\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TestRESTAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TestRESTAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACUAAACANDMzMzMTwGEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:02:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestRESTAPI",
+              "DocumentMoniker": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\TestRESTAPI.csproj",
+              "RelativeDocumentMoniker": "TestRESTAPI\\TestRESTAPI.csproj",
+              "ToolTip": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\TestRESTAPI.csproj",
+              "RelativeToolTip": "TestRESTAPI\\TestRESTAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T12:13:48.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestRESTAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TestRESTAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:59:50.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dtoLogin.cs",
+              "DocumentMoniker": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\DTO\\dtoLogin.cs",
+              "RelativeDocumentMoniker": "TestRESTAPI\\DTO\\dtoLogin.cs",
+              "ToolTip": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\DTO\\dtoLogin.cs",
+              "RelativeToolTip": "TestRESTAPI\\DTO\\dtoLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:09:40.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dtoNewUser.cs",
+              "DocumentMoniker": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\DTO\\dtoNewUser.cs",
+              "RelativeDocumentMoniker": "TestRESTAPI\\DTO\\dtoNewUser.cs",
+              "ToolTip": "C:\\Users\\It Shop Company\\Desktop\\c# projects\\TestRESTAPI\\TestRESTAPI\\DTO\\dtoNewUser.cs",
+              "RelativeToolTip": "TestRESTAPI\\DTO\\dtoNewUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:16:35.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
